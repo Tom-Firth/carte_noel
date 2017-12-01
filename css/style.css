@@ -2,6 +2,11 @@
 STYLE.CSS Carte de noel
 ---------------*/
 
+* {
+	padding: 0;
+	margin: 0;
+}
+
 /*- - - - - - - - - - KAMELIA - -
 
 
@@ -20,6 +25,12 @@ STYLE.CSS Carte de noel
 
 /*- - - - - - - - - - TOM - - -*/
 
+body {
+	max-width: 100vw;
+	max-height: 100vh;	
+	min-width: 100vw;
+	min-height: 100vh;
+}
 
 /*- - - - - - - - - - FIN TOM - - -*/
 
